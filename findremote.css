@@ -1,0 +1,70 @@
+body{
+    background-color: palevioletred;
+    align-items: center;
+
+}
+.blog{
+    background-color: white;
+    box-shadow: 10px -10px 10px -10px;
+    border: 25px;
+    margin: 50px;
+    border-radius: 10px;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.home{
+    margin-left: 70px;
+}
+.about{
+    margin-left: -120px;
+}
+.Blogg{
+    margin-left: -130px;
+}
+.service{
+    margin-left: -130px;
+}
+.sign{
+    margin-right: 20px;
+
+}
+.find{
+    margin-left: 20px;
+}
+.pic{
+    margin-left: 700px;
+    margin-top: -200px;
+}
+button{
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+button:hover{
+    background-color: yellow;
+}
+.body{
+    margin-left: 150px;
+    margin-top: 200px;
+}
+h2{
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+}
+h5{
+    font-size: medium;
+    font-family: Arial, sans-serif;
+}
+.end{
+    display: flex;
+    margin-left: 100px;
+}
+
